@@ -1,3 +1,3 @@
 # Sales-Performance-Analysis
 Leveraging Power BI Analytics To Analyse Sale's Performance And Create An Interactive Dashboard That Tracks Core Business KPIs.
-![image](https://github.com/user-attachments/assets/4688888f-a0f3-43aa-b8df-d80a9f99dd84)
+![image](https://github.com/user-attachments/assets/b3a8ecda-b07e-44b3-8ff1-03b87f09b10c)
