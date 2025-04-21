@@ -3,8 +3,7 @@ Leveraging Power BI Analytics To Analyse Sale's Performance And Create An Intera
 
 ---
 
-![image](https://github.com/user-attachments/assets/b1c09db2-d4fd-4862-a6b7-eca4343fb8c0)
-
+![image](https://github.com/user-attachments/assets/11427ff2-918a-4245-bf37-5fa20e6b94f7)
 
 ---
 
